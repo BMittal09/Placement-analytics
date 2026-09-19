@@ -1,0 +1,7774 @@
+{
+  "generatedAt": "2026-09-19T21:54:29.415728",
+  "kpis": {
+    "totalCompanies": 194,
+    "totalStudentOffers": 1112,
+    "totalStudentsPlaced": 772,
+    "totalStudentsInterned": 702,
+    "highestPackage": 5522250.0,
+    "lowestPackage": 360000.0,
+    "avgPackage": 1140072,
+    "medianPackage": 900825,
+    "totalOffers": 1112,
+    "numBranches": 18,
+    "companiesPlacementOnly": 46,
+    "companiesInternshipOnly": 74,
+    "companiesBoth": 74,
+    "dateRange": {
+      "earliest": "2025-01-29",
+      "latest": "2025-12-15"
+    }
+  },
+  "companies": [
+    {
+      "id": "microsoftppo",
+      "name": "Microsoft PPO",
+      "category": "Core IT",
+      "dateOfVisit": "2025-08-19",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 6,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 3
+        },
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 5522250,
+        "min": 5522250,
+        "avg": 5522250,
+        "offerCount": 6
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "linkedinppo",
+      "name": "LinkedIn PPO",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-11",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 4458750,
+        "min": 4458750,
+        "avg": 4458750,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": 110000,
+        "min": 110000,
+        "avg": 110000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "uberppo",
+      "name": "Uber PPO",
+      "category": "Core IT",
+      "dateOfVisit": "2025-07-26",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 4100399,
+        "min": 4100399,
+        "avg": 4100399,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "aqrcapitalppo",
+      "name": "AQR Capital PPO",
+      "category": "Fintech",
+      "dateOfVisit": "2025-07-29",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 2
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 3430600,
+        "min": 3430600,
+        "avg": 3430600,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "analogdevices",
+      "name": "Analog Devices",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-11-10",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 3174905,
+        "min": 3174905,
+        "avg": 3174905,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "goldmansachsppo",
+      "name": "Goldman Sachs PPO",
+      "category": "Fintech",
+      "dateOfVisit": "2025-07-21",
+      "driveType": "Both",
+      "offerTypes": [
+        "P",
+        "P+I"
+      ],
+      "studentCount": 7,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 3
+        },
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "EEE",
+          "count": 1
+        },
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 3000000,
+        "min": 875000,
+        "avg": 2392857,
+        "offerCount": 7
+      },
+      "stipend": {
+        "max": 162000,
+        "min": 162000,
+        "avg": 162000,
+        "offerCount": 5
+      }
+    },
+    {
+      "id": "deshawppo",
+      "name": "D E Shaw PPO",
+      "category": "Fintech",
+      "dateOfVisit": "2025-07-22",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 3000000,
+        "min": 3000000,
+        "avg": 3000000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": 180000,
+        "min": 180000,
+        "avg": 180000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "saplabsth",
+      "name": "SAP Labs (TH)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 10,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 6
+        },
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 2602080,
+        "min": 2602080,
+        "avg": 2602080,
+        "offerCount": 10
+      },
+      "stipend": {
+        "max": 35000,
+        "min": 35000,
+        "avg": 35000,
+        "offerCount": 10
+      }
+    },
+    {
+      "id": "saplabstdc",
+      "name": "SAP Labs (TDC)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 8,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "DS",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 2
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        }
+      ],
+      "branchCount": 5,
+      "ctc": {
+        "max": 2602080,
+        "min": 2602080,
+        "avg": 2602080,
+        "offerCount": 8
+      },
+      "stipend": {
+        "max": 35000,
+        "min": 35000,
+        "avg": 35000,
+        "offerCount": 8
+      }
+    },
+    {
+      "id": "fischerjordanppo",
+      "name": "Fischer Jordan PPO",
+      "category": "Analytics",
+      "dateOfVisit": "2025-06-04",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "EEE",
+          "count": 1
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 2478000,
+        "min": 2478000,
+        "avg": 2478000,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": 60000,
+        "min": 60000,
+        "avg": 60000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "ciscohw",
+      "name": "CISCO (HW)",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-08-22",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 3
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 2473633,
+        "min": 2473633,
+        "avg": 2473633,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": 98000,
+        "min": 98000,
+        "avg": 98000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "ciscoppo",
+      "name": "Cisco PPO",
+      "category": "Core IT",
+      "dateOfVisit": "2025-08-28",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 5,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 2473633,
+        "min": 2473633,
+        "avg": 2473633,
+        "offerCount": 5
+      },
+      "stipend": {
+        "max": 98000,
+        "min": 98000,
+        "avg": 98000,
+        "offerCount": 5
+      }
+    },
+    {
+      "id": "wellsfargoppo",
+      "name": "WellsFargo PPO",
+      "category": "Fintech",
+      "dateOfVisit": "2025-08-11",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 2400000,
+        "min": 2400000,
+        "avg": 2400000,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "nxpsemiconductors",
+      "name": "NXP Semiconductors",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-10-31",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 3
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 2364000,
+        "min": 2364000,
+        "avg": 2364000,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "meesho",
+      "name": "Meesho",
+      "category": "Core IT",
+      "dateOfVisit": "2025-08-11",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 8,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "DS",
+          "count": 2
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        }
+      ],
+      "branchCount": 5,
+      "ctc": {
+        "max": 2350000,
+        "min": 2350000,
+        "avg": 2350000,
+        "offerCount": 8
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 8
+      }
+    },
+    {
+      "id": "komprise",
+      "name": "Komprise",
+      "category": "Core IT",
+      "dateOfVisit": "2025-08-07",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 2200000,
+        "min": 2200000,
+        "avg": 2200000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": 50000,
+        "min": 50000,
+        "avg": 50000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "bnymellonppo",
+      "name": "BNY Mellon PPO",
+      "category": "Fintech",
+      "dateOfVisit": "2025-08-17",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 2200000,
+        "min": 2200000,
+        "avg": 2200000,
+        "offerCount": 4
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "wdcppo",
+      "name": "WDC PPO",
+      "category": "Core IT",
+      "dateOfVisit": "2025-07-21",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 5,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 3
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 2181000,
+        "min": 2181000,
+        "avg": 2181000,
+        "offerCount": 5
+      },
+      "stipend": {
+        "max": 35000,
+        "min": 35000,
+        "avg": 35000,
+        "offerCount": 5
+      }
+    },
+    {
+      "id": "indusinsights",
+      "name": "Indus Insights",
+      "category": "Core IT",
+      "dateOfVisit": "2025-11-17",
+      "driveType": "Both",
+      "offerTypes": [
+        "I",
+        "P+I"
+      ],
+      "studentCount": 8,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "DS",
+          "count": 2
+        },
+        {
+          "code": "IE",
+          "count": 1
+        },
+        {
+          "code": "MT",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        },
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 6,
+      "ctc": {
+        "max": 2137000,
+        "min": 2137000,
+        "avg": 2137000,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": 100000,
+        "min": 100000,
+        "avg": 100000,
+        "offerCount": 8
+      }
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "category": "Core IT",
+      "dateOfVisit": "2025-08-08",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 6,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 3
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 2136442,
+        "min": 2136442,
+        "avg": 2136442,
+        "offerCount": 6
+      },
+      "stipend": {
+        "max": 60000,
+        "min": 60000,
+        "avg": 60000,
+        "offerCount": 6
+      }
+    },
+    {
+      "id": "oraclefinance",
+      "name": "Oracle Finance",
+      "category": "Fintech",
+      "dateOfVisit": "2025-10-14",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 8,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 3
+        },
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "DS",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 5,
+      "ctc": {
+        "max": 2136442,
+        "min": 2136442,
+        "avg": 2136442,
+        "offerCount": 8
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "saviynt",
+      "name": "Saviynt",
+      "category": "Core IT",
+      "dateOfVisit": "2025-07-25",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 9,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 5
+        },
+        {
+          "code": "IT",
+          "count": 3
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 2000000,
+        "min": 2000000,
+        "avg": 2000000,
+        "offerCount": 9
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 50000,
+        "avg": 65556,
+        "offerCount": 9
+      }
+    },
+    {
+      "id": "jpmorganppo",
+      "name": "JP Morgan PPO",
+      "category": "Fintech",
+      "dateOfVisit": "2025-08-05",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 1975000,
+        "min": 1975000,
+        "avg": 1975000,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": 80000,
+        "min": 80000,
+        "avg": 80000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "jpmorgan",
+      "name": "JP Morgan",
+      "category": "Fintech",
+      "dateOfVisit": "2025-08-13",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 1975000,
+        "min": 1975000,
+        "avg": 1975000,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "sandisk",
+      "name": "SanDisk",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-05",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 1950000,
+        "min": 1950000,
+        "avg": 1950000,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": 50000,
+        "min": 50000,
+        "avg": 50000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "optum",
+      "name": "Optum",
+      "category": "Healthcare",
+      "dateOfVisit": "2025-11-07",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 14,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 4
+        },
+        {
+          "code": "DS",
+          "count": 4
+        },
+        {
+          "code": "IT",
+          "count": 3
+        },
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 5,
+      "ctc": {
+        "max": 1921000,
+        "min": 1921000,
+        "avg": 1921000,
+        "offerCount": 14
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "kenvueppo",
+      "name": "Kenvue PPO",
+      "category": "FMCG",
+      "dateOfVisit": "2025-08-29",
+      "driveType": "Both",
+      "offerTypes": [
+        "P",
+        "P+I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 1905062,
+        "min": 1905062,
+        "avg": 1905062,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": 75000,
+        "min": 75000,
+        "avg": 75000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "mufg",
+      "name": "MUFG",
+      "category": "Fintech",
+      "dateOfVisit": "2025-08-19",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 2
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 1900000,
+        "min": 1900000,
+        "avg": 1900000,
+        "offerCount": 4
+      },
+      "stipend": {
+        "max": 65000,
+        "min": 65000,
+        "avg": 65000,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "category": "Core IT",
+      "dateOfVisit": "2025-08-29",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 20,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 7
+        },
+        {
+          "code": "CCE",
+          "count": 4
+        },
+        {
+          "code": "AIML",
+          "count": 4
+        },
+        {
+          "code": "DS",
+          "count": 2
+        },
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        }
+      ],
+      "branchCount": 6,
+      "ctc": {
+        "max": 1875000,
+        "min": 1875000,
+        "avg": 1875000,
+        "offerCount": 20
+      },
+      "stipend": {
+        "max": 30000,
+        "min": 30000,
+        "avg": 30000,
+        "offerCount": 20
+      }
+    },
+    {
+      "id": "indusinsightsi2p",
+      "name": "Indus Insights(I2P)",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-30",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 6,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "DS",
+          "count": 2
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        },
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 1850000,
+        "min": 1850000,
+        "avg": 1850000,
+        "offerCount": 6
+      },
+      "stipend": {
+        "max": 100000,
+        "min": 100000,
+        "avg": 100000,
+        "offerCount": 6
+      }
+    },
+    {
+      "id": "hpecpp",
+      "name": "HPE CPP",
+      "category": "Core IT",
+      "dateOfVisit": "2025-08-24",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 4
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 1750000,
+        "min": 1750000,
+        "avg": 1750000,
+        "offerCount": 4
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "meeshosrassociate",
+      "name": "Meesho (Sr. Associate)",
+      "category": "Core IT",
+      "dateOfVisit": "2025-11-20",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "ME",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 1750000,
+        "min": 1750000,
+        "avg": 1750000,
+        "offerCount": 4
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "visappo",
+      "name": "VISA PPO",
+      "category": "Fintech",
+      "dateOfVisit": "2025-08-07",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 1657000,
+        "min": 1657000,
+        "avg": 1657000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": 90000,
+        "min": 90000,
+        "avg": 90000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "gehealthcareppo",
+      "name": "GE Healthcare PPO",
+      "category": "Healthcare",
+      "dateOfVisit": "2025-07-31",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 1620012,
+        "min": 1620012,
+        "avg": 1620012,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "gehealthcareembd",
+      "name": "GE Healthcare (Embd)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 1620012,
+        "min": 1620012,
+        "avg": 1620012,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "idfcfirstbank",
+      "name": "IDFC First bank",
+      "category": "Fintech",
+      "dateOfVisit": "2025-10-16",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 5,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 3
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 1600000,
+        "min": 1600000,
+        "avg": 1600000,
+        "offerCount": 5
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 5
+      }
+    },
+    {
+      "id": "formaai",
+      "name": "Forma AI",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-23",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        },
+        {
+          "code": "ME",
+          "count": 1
+        },
+        {
+          "code": "EEE",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 1500000,
+        "min": 1500000,
+        "avg": 1500000,
+        "offerCount": 4
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "flipkart",
+      "name": "FlipKart",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-09-16",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 12,
+      "branches": [
+        {
+          "code": "EIE",
+          "count": 4
+        },
+        {
+          "code": "AE",
+          "count": 3
+        },
+        {
+          "code": "ECE",
+          "count": 3
+        },
+        {
+          "code": "ME",
+          "count": 1
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        }
+      ],
+      "branchCount": 5,
+      "ctc": {
+        "max": 1450000,
+        "min": 1450000,
+        "avg": 1450000,
+        "offerCount": 12
+      },
+      "stipend": {
+        "max": 50000,
+        "min": 50000,
+        "avg": 50000,
+        "offerCount": 12
+      }
+    },
+    {
+      "id": "simnovustechnology",
+      "name": "Simnovus Technology",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 5,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 3
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 1440000,
+        "min": 1440000,
+        "avg": 1440000,
+        "offerCount": 5
+      },
+      "stipend": {
+        "max": 30000,
+        "min": 30000,
+        "avg": 30000,
+        "offerCount": 5
+      }
+    },
+    {
+      "id": "zsassociatesbtsa",
+      "name": "ZS Associates (BTSA)",
+      "category": "Consulting",
+      "dateOfVisit": "2025-08-29",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 18,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 8
+        },
+        {
+          "code": "IT",
+          "count": 5
+        },
+        {
+          "code": "CSE",
+          "count": 3
+        },
+        {
+          "code": "DS",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        }
+      ],
+      "branchCount": 5,
+      "ctc": {
+        "max": 1415600,
+        "min": 1415600,
+        "avg": 1415600,
+        "offerCount": 18
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "zsassociatesdaa",
+      "name": "ZS Associates (DAA)",
+      "category": "Consulting",
+      "dateOfVisit": "2025-08-29",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 16,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 3
+        },
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "CPS",
+          "count": 2
+        },
+        {
+          "code": "DS",
+          "count": 2
+        },
+        {
+          "code": "ME",
+          "count": 2
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        },
+        {
+          "code": "EEE",
+          "count": 1
+        },
+        {
+          "code": "EIE",
+          "count": 1
+        },
+        {
+          "code": "MT",
+          "count": 1
+        }
+      ],
+      "branchCount": 10,
+      "ctc": {
+        "max": 1415600,
+        "min": 1415600,
+        "avg": 1415600,
+        "offerCount": 16
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "itcfoodsppo",
+      "name": "ITC Foods PPO",
+      "category": "FMCG",
+      "dateOfVisit": "2025-07-24",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "CH",
+          "count": 1
+        },
+        {
+          "code": "EIE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 1400000,
+        "min": 1400000,
+        "avg": 1400000,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "itcfoods",
+      "name": "ITC Foods",
+      "category": "FMCG",
+      "dateOfVisit": "2025-08-20",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "EIE",
+          "count": 1
+        },
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 1400000,
+        "min": 1400000,
+        "avg": 1400000,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "bottomline",
+      "name": "Bottomline",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-01",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 7,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 3
+        },
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 1400000,
+        "min": 1400000,
+        "avg": 1400000,
+        "offerCount": 7
+      },
+      "stipend": {
+        "max": 50000,
+        "min": 50000,
+        "avg": 50000,
+        "offerCount": 7
+      }
+    },
+    {
+      "id": "sabrese",
+      "name": "Sabre (SE)",
+      "category": "Core IT",
+      "dateOfVisit": "2025-08-20",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 1384500,
+        "min": 1384500,
+        "avg": 1384500,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "oktaindia",
+      "name": "Okta India",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-09",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 1377100,
+        "min": 1377100,
+        "avg": 1377100,
+        "offerCount": 4
+      },
+      "stipend": {
+        "max": 80000,
+        "min": 80000,
+        "avg": 80000,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "sabreba",
+      "name": "Sabre (BA)",
+      "category": "Core IT",
+      "dateOfVisit": "2025-08-20",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 1329120,
+        "min": 1329120,
+        "avg": 1329120,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "egdk",
+      "name": "EGDK",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-26",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 6,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 5
+        },
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 1305000,
+        "min": 1305000,
+        "avg": 1305000,
+        "offerCount": 6
+      },
+      "stipend": {
+        "max": 25000,
+        "min": 25000,
+        "avg": 25000,
+        "offerCount": 6
+      }
+    },
+    {
+      "id": "impactanalytics",
+      "name": "Impact Analytics",
+      "category": "Analytics",
+      "dateOfVisit": "2025-10-10",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        },
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 1300000,
+        "min": 1300000,
+        "avg": 1300000,
+        "offerCount": 4
+      },
+      "stipend": {
+        "max": 15000,
+        "min": 15000,
+        "avg": 15000,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "commonwealthbank",
+      "name": "Commonwealth Bank",
+      "category": "Fintech",
+      "dateOfVisit": "2025-09-27",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 8,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 4
+        },
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 1254568,
+        "min": 1254568,
+        "avg": 1254568,
+        "offerCount": 8
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "gehealthcarehw",
+      "name": "GE Healthcare (HW)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "ME",
+          "count": 2
+        },
+        {
+          "code": "EEE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 1253278,
+        "min": 1253278,
+        "avg": 1253278,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "gehealthcaresw",
+      "name": "GE Healthcare (SW)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 1253278,
+        "min": 1253278,
+        "avg": 1253278,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "deloitte",
+      "name": "Deloitte",
+      "category": "Consulting",
+      "dateOfVisit": "2025-04-24",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "EEE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 1200000,
+        "min": 1200000,
+        "avg": 1200000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "schneiderelectric",
+      "name": "Schneider Electric",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-08-22",
+      "driveType": "Both",
+      "offerTypes": [
+        "I",
+        "P+I"
+      ],
+      "studentCount": 9,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 3
+        },
+        {
+          "code": "MT",
+          "count": 3
+        },
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "EEE",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 1200000,
+        "min": 1200000,
+        "avg": 1200000,
+        "offerCount": 8
+      },
+      "stipend": {
+        "max": 35000,
+        "min": 35000,
+        "avg": 35000,
+        "offerCount": 9
+      }
+    },
+    {
+      "id": "tredenceds",
+      "name": "Tredence (DS)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 1200000,
+        "min": 1200000,
+        "avg": 1200000,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "superagi",
+      "name": "Super AGI",
+      "category": "Core IT",
+      "dateOfVisit": "2025-10-23",
+      "driveType": "Both",
+      "offerTypes": [
+        "I",
+        "P+I"
+      ],
+      "studentCount": 8,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 4
+        },
+        {
+          "code": "IT",
+          "count": 3
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 1200000,
+        "min": 1200000,
+        "avg": 1200000,
+        "offerCount": 6
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 30000,
+        "avg": 32500,
+        "offerCount": 8
+      }
+    },
+    {
+      "id": "icicibank",
+      "name": "ICICI Bank",
+      "category": "Fintech",
+      "dateOfVisit": "2025-11-03",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 13,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 5
+        },
+        {
+          "code": "IT",
+          "count": 3
+        },
+        {
+          "code": "CPS",
+          "count": 2
+        },
+        {
+          "code": "ECE",
+          "count": 2
+        },
+        {
+          "code": "EIE",
+          "count": 1
+        }
+      ],
+      "branchCount": 5,
+      "ctc": {
+        "max": 1200000,
+        "min": 1200000,
+        "avg": 1200000,
+        "offerCount": 13
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "cocacola",
+      "name": "Coca Cola",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-12-10",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "EEE",
+          "count": 1
+        },
+        {
+          "code": "EIE",
+          "count": 1
+        },
+        {
+          "code": "MT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 1200000,
+        "min": 1200000,
+        "avg": 1200000,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "asianpaints",
+      "name": "Asian Paints",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-10-23",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 1160000,
+        "min": 1160000,
+        "avg": 1160000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "twararobotics",
+      "name": "Twara Robotics",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-09-20",
+      "driveType": "Both",
+      "offerTypes": [
+        "I",
+        "P+I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "ME",
+          "count": 2
+        },
+        {
+          "code": "MT",
+          "count": 2
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 1150000,
+        "min": 1150000,
+        "avg": 1150000,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": 25000,
+        "min": 25000,
+        "avg": 25000,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "cashfreepayments",
+      "name": "Cashfree Payments",
+      "category": "Fintech",
+      "dateOfVisit": "2025-12-02",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 1100000,
+        "min": 1100000,
+        "avg": 1100000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": 30000,
+        "min": 30000,
+        "avg": 30000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "rystadenergy",
+      "name": "Rystad Energy",
+      "category": "Analytics",
+      "dateOfVisit": "2025-09-01",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 10,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 3
+        },
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "EIE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        },
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 7,
+      "ctc": {
+        "max": 1090000,
+        "min": 1090000,
+        "avg": 1090000,
+        "offerCount": 10
+      },
+      "stipend": {
+        "max": 42400,
+        "min": 42400,
+        "avg": 42400,
+        "offerCount": 10
+      }
+    },
+    {
+      "id": "boeingppo",
+      "name": "Boeing PPO",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-08-05",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 8,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 4
+        },
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "AE",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 1088038,
+        "min": 1088038,
+        "avg": 1088038,
+        "offerCount": 8
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "boeing",
+      "name": "Boeing",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-10-31",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "EEE",
+          "count": 2
+        },
+        {
+          "code": "ME",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 1088038,
+        "min": 1088038,
+        "avg": 1088038,
+        "offerCount": 4
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "accenture",
+      "name": "Accenture",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-18",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 1081724,
+        "min": 1081724,
+        "avg": 1081724,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "tatamotors",
+      "name": "Tata Motors",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-11-10",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 17,
+      "branches": [
+        {
+          "code": "MT",
+          "count": 12
+        },
+        {
+          "code": "AU",
+          "count": 3
+        },
+        {
+          "code": "EEE",
+          "count": 2
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 1050000,
+        "min": 1050000,
+        "avg": 1050000,
+        "offerCount": 17
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "abb",
+      "name": "ABB",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-08-24",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 1000000,
+        "min": 1000000,
+        "avg": 1000000,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": 30000,
+        "min": 30000,
+        "avg": 30000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "qwixpert",
+      "name": "Qwixpert",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-20",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 2
+        },
+        {
+          "code": "EIE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 1000000,
+        "min": 1000000,
+        "avg": 1000000,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": 30000,
+        "min": 30000,
+        "avg": 30000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "tredenceda",
+      "name": "Tredence (DA)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 1000000,
+        "min": 1000000,
+        "avg": 1000000,
+        "offerCount": 4
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "daimler",
+      "name": "Daimler",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-10-15",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "CPS",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 1000000,
+        "min": 1000000,
+        "avg": 1000000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "nammayatri",
+      "name": "Namma Yatri",
+      "category": "Core IT",
+      "dateOfVisit": "2025-11-12",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 1000000,
+        "min": 1000000,
+        "avg": 1000000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": 30000,
+        "min": 30000,
+        "avg": 30000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "oraclecagiu",
+      "name": "Oracle CAGIU",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-25",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 2
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 982054,
+        "min": 982054,
+        "avg": 982054,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": 60000,
+        "min": 60000,
+        "avg": 60000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "marutisuzuki",
+      "name": "Maruti Suzuki",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-11-03",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 8,
+      "branches": [
+        {
+          "code": "ME",
+          "count": 6
+        },
+        {
+          "code": "MT",
+          "count": 2
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 956000,
+        "min": 956000,
+        "avg": 956000,
+        "offerCount": 8
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "fractalanalytics",
+      "name": "Fractal Analytics",
+      "category": "Analytics",
+      "dateOfVisit": "2025-09-11",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 5,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 3
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 950000,
+        "min": 950000,
+        "avg": 950000,
+        "offerCount": 5
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "cynlr",
+      "name": "Cynlr",
+      "category": "Core IT",
+      "dateOfVisit": "2025-10-06",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "EEE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 950000,
+        "min": 950000,
+        "avg": 950000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": 30000,
+        "min": 30000,
+        "avg": 30000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "mangaloreinfotechunicourt",
+      "name": "Mangalore Infotech (Unicourt)",
+      "category": "Core IT",
+      "dateOfVisit": "2025-10-31",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 950000,
+        "min": 950000,
+        "avg": 950000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": 18000,
+        "min": 18000,
+        "avg": 18000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "galeagency",
+      "name": "GALE Agency",
+      "category": "Core IT",
+      "dateOfVisit": "2025-12-03",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 5,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 950000,
+        "min": 950000,
+        "avg": 950000,
+        "offerCount": 5
+      },
+      "stipend": {
+        "max": 41666,
+        "min": 41666,
+        "avg": 41666,
+        "offerCount": 5
+      }
+    },
+    {
+      "id": "eyindia",
+      "name": "EY India",
+      "category": "Consulting",
+      "dateOfVisit": "2025-10-17",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 5,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 3
+        },
+        {
+          "code": "AIML",
+          "count": 2
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 919423,
+        "min": 919423,
+        "avg": 919423,
+        "offerCount": 5
+      },
+      "stipend": {
+        "max": 21200,
+        "min": 21200,
+        "avg": 21200,
+        "offerCount": 5
+      }
+    },
+    {
+      "id": "verizon",
+      "name": "Verizon",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-10",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 6,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 3
+        },
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 900825,
+        "min": 900825,
+        "avg": 900825,
+        "offerCount": 6
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "gepworldwide",
+      "name": "GEP Worldwide",
+      "category": "Consulting",
+      "dateOfVisit": "2025-10-10",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 1
+        },
+        {
+          "code": "ME",
+          "count": 1
+        },
+        {
+          "code": "MT",
+          "count": 1
+        },
+        {
+          "code": "BT",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 900000,
+        "min": 900000,
+        "avg": 900000,
+        "offerCount": 4
+      },
+      "stipend": {
+        "max": 21500,
+        "min": 21500,
+        "avg": 21500,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "unilever",
+      "name": "Unilever",
+      "category": "Core IT",
+      "dateOfVisit": "2025-10-16",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 900000,
+        "min": 900000,
+        "avg": 900000,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "equifax",
+      "name": "Equifax",
+      "category": "Analytics",
+      "dateOfVisit": "2025-11-30",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 2
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 900000,
+        "min": 900000,
+        "avg": 900000,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": 15000,
+        "min": 15000,
+        "avg": 15000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "relantoglobal",
+      "name": "Relanto Global",
+      "category": "Consulting",
+      "dateOfVisit": "2025-09-11",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 2
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 852938,
+        "min": 852938,
+        "avg": 852938,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": 42000,
+        "min": 42000,
+        "avg": 42000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "beghouconsulting",
+      "name": "Beghou Consulting",
+      "category": "Consulting",
+      "dateOfVisit": "2025-09-05",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 6,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 2
+        },
+        {
+          "code": "AE",
+          "count": 1
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 850000,
+        "min": 850000,
+        "avg": 850000,
+        "offerCount": 6
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "dentsuglobal",
+      "name": "Dentsu Global",
+      "category": "Core IT",
+      "dateOfVisit": "2025-10-08",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 6,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "DS",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 2
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 850000,
+        "min": 850000,
+        "avg": 850000,
+        "offerCount": 6
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "elgiequipments",
+      "name": "ELGi Equipments",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-11-11",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "ME",
+          "count": 2
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 850000,
+        "min": 850000,
+        "avg": 850000,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "siemenshealthineers",
+      "name": "Siemens Healthineers",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-11-24",
+      "driveType": "Both",
+      "offerTypes": [
+        "I",
+        "P+I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "BM",
+          "count": 2
+        },
+        {
+          "code": "MT",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 850000,
+        "min": 850000,
+        "avg": 850000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": 25000,
+        "min": 25000,
+        "avg": 25000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "itcinfotech",
+      "name": "ITC Infotech",
+      "category": "Core IT",
+      "dateOfVisit": "2025-11-25",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 1
+        },
+        {
+          "code": "EIE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 850000,
+        "min": 850000,
+        "avg": 850000,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": 15000,
+        "min": 15000,
+        "avg": 15000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "tvsmotor",
+      "name": "TVS Motor",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 800000,
+        "min": 800000,
+        "avg": 800000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "sigmoidanalytics",
+      "name": "Sigmoid Analytics",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-27",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 7,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 3
+        },
+        {
+          "code": "DS",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 2
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 800000,
+        "min": 800000,
+        "avg": 800000,
+        "offerCount": 7
+      },
+      "stipend": {
+        "max": 25000,
+        "min": 25000,
+        "avg": 25000,
+        "offerCount": 7
+      }
+    },
+    {
+      "id": "amlak",
+      "name": "Amlak",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-11-10",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "EEE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 800000,
+        "min": 800000,
+        "avg": 800000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "jsw",
+      "name": "JSW",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-11-13",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "EEE",
+          "count": 1
+        },
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 800000,
+        "min": 800000,
+        "avg": 800000,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "relianceconsumerproductsrcpl",
+      "name": "Reliance Consumer Products (RCPL)",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-11-17",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "ME",
+          "count": 2
+        },
+        {
+          "code": "EEE",
+          "count": 1
+        },
+        {
+          "code": "EIE",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 800000,
+        "min": 800000,
+        "avg": 800000,
+        "offerCount": 4
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "deloittepro1",
+      "name": "Deloitte (Pro 1)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 18,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 5
+        },
+        {
+          "code": "CCE",
+          "count": 3
+        },
+        {
+          "code": "MT",
+          "count": 3
+        },
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 2
+        },
+        {
+          "code": "DS",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        },
+        {
+          "code": "EIE",
+          "count": 1
+        }
+      ],
+      "branchCount": 8,
+      "ctc": {
+        "max": 760000,
+        "min": 760000,
+        "avg": 760000,
+        "offerCount": 18
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "deloittecapstonepro1",
+      "name": "Deloitte Capstone (Pro 1)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 15,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 8
+        },
+        {
+          "code": "ECE",
+          "count": 3
+        },
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "MT",
+          "count": 1
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        }
+      ],
+      "branchCount": 5,
+      "ctc": {
+        "max": 760000,
+        "min": 760000,
+        "avg": 760000,
+        "offerCount": 15
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "deloittepro2",
+      "name": "Deloitte (Pro 2)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "EIE",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 760000,
+        "min": 760000,
+        "avg": 760000,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "deloitteindiapro3",
+      "name": "Deloitte India (Pro 3)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 16,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 3
+        },
+        {
+          "code": "EIE",
+          "count": 3
+        },
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "EEE",
+          "count": 2
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        },
+        {
+          "code": "IE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        },
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 9,
+      "ctc": {
+        "max": 760000,
+        "min": 760000,
+        "avg": 760000,
+        "offerCount": 16
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "deloitteindiapro4",
+      "name": "Deloitte India (Pro 4)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 6,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 2
+        },
+        {
+          "code": "MT",
+          "count": 2
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 760000,
+        "min": 760000,
+        "avg": 760000,
+        "offerCount": 6
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "deloitteindiapro5",
+      "name": "Deloitte India (Pro 5)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 10,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 5
+        },
+        {
+          "code": "IT",
+          "count": 4
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 760000,
+        "min": 760000,
+        "avg": 760000,
+        "offerCount": 10
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "deloitteindiapro6",
+      "name": "Deloitte India (Pro 6)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 10,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 5
+        },
+        {
+          "code": "ECE",
+          "count": 3
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 760000,
+        "min": 760000,
+        "avg": 760000,
+        "offerCount": 10
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "deloitteindiapro7",
+      "name": "Deloitte India (Pro 7)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 5,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 760000,
+        "min": 760000,
+        "avg": 760000,
+        "offerCount": 5
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "incedo",
+      "name": "Incedo",
+      "category": "Core IT",
+      "dateOfVisit": "2025-11-06",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 7,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 3
+        },
+        {
+          "code": "CPS",
+          "count": 2
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": 755000,
+        "min": 755000,
+        "avg": 755000,
+        "offerCount": 7
+      },
+      "stipend": {
+        "max": 25000,
+        "min": 25000,
+        "avg": 25000,
+        "offerCount": 7
+      }
+    },
+    {
+      "id": "volvo",
+      "name": "Volvo",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-07-29",
+      "driveType": "Both",
+      "offerTypes": [
+        "I",
+        "P",
+        "P+I"
+      ],
+      "studentCount": 6,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 2
+        },
+        {
+          "code": "ME",
+          "count": 2
+        },
+        {
+          "code": "MT",
+          "count": 2
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 750000,
+        "min": 750000,
+        "avg": 750000,
+        "offerCount": 5
+      },
+      "stipend": {
+        "max": 30000,
+        "min": 30000,
+        "avg": 30000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "udtrucks",
+      "name": "UD Trucks",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-10-17",
+      "driveType": "Both",
+      "offerTypes": [
+        "I",
+        "P",
+        "P+I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 1
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 750000,
+        "min": 750000,
+        "avg": 750000,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": 25000,
+        "min": 25000,
+        "avg": 25000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "relianceindustries",
+      "name": "Reliance Industries",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-11-06",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 8,
+      "branches": [
+        {
+          "code": "EEE",
+          "count": 3
+        },
+        {
+          "code": "ME",
+          "count": 2
+        },
+        {
+          "code": "CH",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        },
+        {
+          "code": "EIE",
+          "count": 1
+        }
+      ],
+      "branchCount": 5,
+      "ctc": {
+        "max": 750000,
+        "min": 750000,
+        "avg": 750000,
+        "offerCount": 8
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "ericsson",
+      "name": "Ericsson",
+      "category": "Core IT",
+      "dateOfVisit": "2025-12-13",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 715000,
+        "min": 715000,
+        "avg": 715000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": 35000,
+        "min": 35000,
+        "avg": 35000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "cemindiaproject",
+      "name": "CEM India Project",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "CV",
+          "count": 3
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 703000,
+        "min": 703000,
+        "avg": 703000,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "tafe",
+      "name": "TAFE",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-10-17",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "AU",
+          "count": 1
+        },
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 700000,
+        "min": 700000,
+        "avg": 700000,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "accentureaase",
+      "name": "Accenture AASE",
+      "category": "ITES",
+      "dateOfVisit": "2025-12-02",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 54,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 16
+        },
+        {
+          "code": "CCE",
+          "count": 13
+        },
+        {
+          "code": "DS",
+          "count": 7
+        },
+        {
+          "code": "AIML",
+          "count": 6
+        },
+        {
+          "code": "IT",
+          "count": 6
+        },
+        {
+          "code": "CPS",
+          "count": 4
+        },
+        {
+          "code": "ME",
+          "count": 1
+        },
+        {
+          "code": "MT",
+          "count": 1
+        }
+      ],
+      "branchCount": 8,
+      "ctc": {
+        "max": 651340,
+        "min": 651340,
+        "avg": 651340,
+        "offerCount": 54
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "tatatechnologies",
+      "name": "Tata Technologies",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-12-11",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "AE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 650000,
+        "min": 650000,
+        "avg": 650000,
+        "offerCount": 1
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "kpmg",
+      "name": "KPMG",
+      "category": "Analytics",
+      "dateOfVisit": "2025-09-25",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 16,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "CPS",
+          "count": 2
+        },
+        {
+          "code": "ME",
+          "count": 2
+        },
+        {
+          "code": "BT",
+          "count": 1
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "DS",
+          "count": 1
+        },
+        {
+          "code": "EEE",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        },
+        {
+          "code": "EIE",
+          "count": 1
+        },
+        {
+          "code": "IE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 12,
+      "ctc": {
+        "max": 600000,
+        "min": 600000,
+        "avg": 600000,
+        "offerCount": 16
+      },
+      "stipend": {
+        "max": 20000,
+        "min": 20000,
+        "avg": 20000,
+        "offerCount": 16
+      }
+    },
+    {
+      "id": "mphasis",
+      "name": "Mphasis",
+      "category": "Core IT",
+      "dateOfVisit": "2025-11-17",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 600000,
+        "min": 600000,
+        "avg": 600000,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": 25000,
+        "min": 25000,
+        "avg": 25000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "pwcac",
+      "name": "PWC AC",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 600000,
+        "min": 600000,
+        "avg": 600000,
+        "offerCount": 2
+      },
+      "stipend": {
+        "max": 35000,
+        "min": 35000,
+        "avg": 35000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "kpmggrcsrealestate",
+      "name": "KPMG GRCS Real Estate",
+      "category": "Analytics",
+      "dateOfVisit": "2025-11-27",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "CV",
+          "count": 2
+        },
+        {
+          "code": "EEE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": 600000,
+        "min": 600000,
+        "avg": 600000,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": 20000,
+        "min": 20000,
+        "avg": 20000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "jllindia",
+      "name": "JLL India",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-12-05",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "CV",
+          "count": 3
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 525000,
+        "min": 525000,
+        "avg": 525000,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "kpmgdigitaltrust",
+      "name": "KPMG Digital Trust",
+      "category": "Analytics",
+      "dateOfVisit": "2025-09-25",
+      "driveType": "Both",
+      "offerTypes": [
+        "P+I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "EEE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        },
+        {
+          "code": "MT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": 500000,
+        "min": 500000,
+        "avg": 500000,
+        "offerCount": 3
+      },
+      "stipend": {
+        "max": 20000,
+        "min": 20000,
+        "avg": 20000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "tataadvancedsystems",
+      "name": "Tata Advanced Systems",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 5,
+      "branches": [
+        {
+          "code": "AE",
+          "count": 5
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": 500000,
+        "min": 500000,
+        "avg": 500000,
+        "offerCount": 5
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "accenturease",
+      "name": "Accenture ASE",
+      "category": "ITES",
+      "dateOfVisit": "2025-12-02",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 44,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 8
+        },
+        {
+          "code": "ECE",
+          "count": 7
+        },
+        {
+          "code": "DS",
+          "count": 6
+        },
+        {
+          "code": "CCE",
+          "count": 5
+        },
+        {
+          "code": "AIML",
+          "count": 4
+        },
+        {
+          "code": "IT",
+          "count": 4
+        },
+        {
+          "code": "EIE",
+          "count": 3
+        },
+        {
+          "code": "AE",
+          "count": 2
+        },
+        {
+          "code": "CPS",
+          "count": 2
+        },
+        {
+          "code": "MT",
+          "count": 2
+        },
+        {
+          "code": "EEE",
+          "count": 1
+        }
+      ],
+      "branchCount": 11,
+      "ctc": {
+        "max": 444900,
+        "min": 444900,
+        "avg": 444900,
+        "offerCount": 44
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "mindtree",
+      "name": "Mindtree",
+      "category": "ITES",
+      "dateOfVisit": "2025-11-25",
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 28,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 6
+        },
+        {
+          "code": "IT",
+          "count": 5
+        },
+        {
+          "code": "DS",
+          "count": 4
+        },
+        {
+          "code": "CCE",
+          "count": 3
+        },
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "EEE",
+          "count": 2
+        },
+        {
+          "code": "EIE",
+          "count": 2
+        },
+        {
+          "code": "AE",
+          "count": 1
+        },
+        {
+          "code": "BT",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        },
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 11,
+      "ctc": {
+        "max": 405233,
+        "min": 405233,
+        "avg": 405233,
+        "offerCount": 28
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "infosys",
+      "name": "Infosys",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Placement",
+      "offerTypes": [
+        "P"
+      ],
+      "studentCount": 67,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 14
+        },
+        {
+          "code": "DS",
+          "count": 9
+        },
+        {
+          "code": "CSE",
+          "count": 8
+        },
+        {
+          "code": "ECE",
+          "count": 8
+        },
+        {
+          "code": "MT",
+          "count": 8
+        },
+        {
+          "code": "IT",
+          "count": 7
+        },
+        {
+          "code": "CPS",
+          "count": 3
+        },
+        {
+          "code": "EEE",
+          "count": 3
+        },
+        {
+          "code": "EIE",
+          "count": 3
+        },
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "BM",
+          "count": 1
+        },
+        {
+          "code": "CH",
+          "count": 1
+        }
+      ],
+      "branchCount": 12,
+      "ctc": {
+        "max": 360000,
+        "min": 360000,
+        "avg": 360000,
+        "offerCount": 67
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "intel",
+      "name": "Intel",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-01-29",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 10,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 10
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 45000,
+        "min": 45000,
+        "avg": 45000,
+        "offerCount": 10
+      }
+    },
+    {
+      "id": "arm",
+      "name": "ARM",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-01-30",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 9,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 5
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 5,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 45000,
+        "min": 45000,
+        "avg": 45000,
+        "offerCount": 9
+      }
+    },
+    {
+      "id": "infineon",
+      "name": "Infineon",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-02-04",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "EEE",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 39000,
+        "min": 39000,
+        "avg": 39000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "schlumberger",
+      "name": "Schlumberger",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 6,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 5
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 30000,
+        "min": 30000,
+        "avg": 30000,
+        "offerCount": 6
+      }
+    },
+    {
+      "id": "netapp",
+      "name": "NetApp",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-04-01",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 2
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 50000,
+        "min": 50000,
+        "avg": 50000,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "e6data",
+      "name": "e6data",
+      "category": "Core IT",
+      "dateOfVisit": "2025-04-01",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "philips",
+      "name": "Philips",
+      "category": "Core IT",
+      "dateOfVisit": "2025-04-17",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 7,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 3
+        },
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 45000,
+        "min": 45000,
+        "avg": 45000,
+        "offerCount": 7
+      }
+    },
+    {
+      "id": "amazontech",
+      "name": "Amazon Tech",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-04-18",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 8,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 3
+        },
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 2
+        },
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 8
+      }
+    },
+    {
+      "id": "amazonnontech",
+      "name": "Amazon Non Tech",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-04-18",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 13,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 10
+        },
+        {
+          "code": "MT",
+          "count": 2
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 13
+      }
+    },
+    {
+      "id": "harness",
+      "name": "Harness",
+      "category": "Core IT",
+      "dateOfVisit": "2025-04-18",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 5,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 3
+        },
+        {
+          "code": "DS",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 5
+      }
+    },
+    {
+      "id": "dbstechnology",
+      "name": "DBS Technology",
+      "category": "Fintech",
+      "dateOfVisit": "2025-05-05",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 90000,
+        "min": 90000,
+        "avg": 90000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "stmicroelectronics",
+      "name": "STMicroelectronics",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-05-13",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 10,
+      "branches": [
+        {
+          "code": "EEE",
+          "count": 4
+        },
+        {
+          "code": "ECE",
+          "count": 4
+        },
+        {
+          "code": "EIE",
+          "count": 2
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 10
+      }
+    },
+    {
+      "id": "samsungelectromechanics",
+      "name": "Samsung Electro Mechanics",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-05-30",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 30000,
+        "min": 30000,
+        "avg": 30000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "msci",
+      "name": "MSCI",
+      "category": "FinTech",
+      "dateOfVisit": "2025-06-02",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 7,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 3
+        },
+        {
+          "code": "AIML",
+          "count": 3
+        },
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 60000,
+        "min": 60000,
+        "avg": 60000,
+        "offerCount": 7
+      }
+    },
+    {
+      "id": "theporter",
+      "name": "The Porter",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-06-04",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 7,
+      "branches": [
+        {
+          "code": "ME",
+          "count": 2
+        },
+        {
+          "code": "BM",
+          "count": 1
+        },
+        {
+          "code": "BT",
+          "count": 1
+        },
+        {
+          "code": "CH",
+          "count": 1
+        },
+        {
+          "code": "EEE",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        }
+      ],
+      "branchCount": 6,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 7
+      }
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-06-24",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 80000,
+        "min": 80000,
+        "avg": 80000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "arcesium",
+      "name": "Arcesium",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 125000,
+        "min": 125000,
+        "avg": 125000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "resmed",
+      "name": "Resmed",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-07-23",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "BM",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 45000,
+        "min": 45000,
+        "avg": 45000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "hypervergeml",
+      "name": "HyperVerge (ML)",
+      "category": "Core IT",
+      "dateOfVisit": "2025-07-24",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 45000,
+        "min": 45000,
+        "avg": 45000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "hypervergede",
+      "name": "HyperVerge (DE)",
+      "category": "Core IT",
+      "dateOfVisit": "2025-07-24",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 45000,
+        "min": 45000,
+        "avg": 45000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "saplabs",
+      "name": "SAP Labs",
+      "category": "Core IT",
+      "dateOfVisit": "2025-08-13",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 35000,
+        "min": 35000,
+        "avg": 35000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "nutanix",
+      "name": "Nutanix",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-08-14",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "CPS",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 50000,
+        "min": 50000,
+        "avg": 50000,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "blackrock",
+      "name": "BlackRock",
+      "category": "Fintech",
+      "dateOfVisit": "2025-08-21",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 7,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 3
+        },
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "DS",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 50000,
+        "min": 50000,
+        "avg": 50000,
+        "offerCount": 7
+      }
+    },
+    {
+      "id": "hypervergemle",
+      "name": "HyperVerge (MLE)",
+      "category": "Core IT",
+      "dateOfVisit": "2025-08-30",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 45000,
+        "min": 45000,
+        "avg": 45000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "honeywell",
+      "name": "Honeywell",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-09-05",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 25,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 6
+        },
+        {
+          "code": "CSE",
+          "count": 5
+        },
+        {
+          "code": "ECE",
+          "count": 5
+        },
+        {
+          "code": "EEE",
+          "count": 4
+        },
+        {
+          "code": "CH",
+          "count": 2
+        },
+        {
+          "code": "EIE",
+          "count": 2
+        },
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 7,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 30000,
+        "min": 30000,
+        "avg": 30000,
+        "offerCount": 25
+      }
+    },
+    {
+      "id": "goldmansachsoperation",
+      "name": "Goldman Sachs (Operation)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 6,
+      "branches": [
+        {
+          "code": "MT",
+          "count": 2
+        },
+        {
+          "code": "AE",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 5,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 6
+      }
+    },
+    {
+      "id": "goldmansachsawmm",
+      "name": "Goldman Sachs (AWM M)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "goldmansachsgmlm",
+      "name": "Goldman Sachs (GMLM)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 1
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "cloudera",
+      "name": "Cloudera",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-08",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 45000,
+        "min": 45000,
+        "avg": 45000,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "ciscosw",
+      "name": "Cisco (SW)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 98000,
+        "min": 98000,
+        "avg": 98000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "ciscoba",
+      "name": "Cisco (BA)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 98000,
+        "min": 98000,
+        "avg": 98000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "hypervergesde",
+      "name": "HyperVerge (SDE)",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-11",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 35000,
+        "min": 35000,
+        "avg": 35000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "addverb",
+      "name": "Addverb",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-09-12",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "MT",
+          "count": 3
+        },
+        {
+          "code": "IE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 25000,
+        "min": 25000,
+        "avg": 25000,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "amazonde",
+      "name": "Amazon (DE)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "nxpsw",
+      "name": "NXP (SW)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 43000,
+        "min": 43000,
+        "avg": 43000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "nxphw",
+      "name": "NXP (HW)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 2
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 43000,
+        "min": 43000,
+        "avg": 43000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "axxela",
+      "name": "Axxela",
+      "category": "Analytics",
+      "dateOfVisit": "2025-09-22",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 20000,
+        "min": 20000,
+        "avg": 20000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "elililly",
+      "name": "Eli Lilly",
+      "category": "Core IT",
+      "dateOfVisit": "2025-09-24",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 29,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 9
+        },
+        {
+          "code": "CSE",
+          "count": 8
+        },
+        {
+          "code": "DS",
+          "count": 5
+        },
+        {
+          "code": "AIML",
+          "count": 4
+        },
+        {
+          "code": "IT",
+          "count": 2
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        }
+      ],
+      "branchCount": 6,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 50000,
+        "min": 50000,
+        "avg": 50000,
+        "offerCount": 29
+      }
+    },
+    {
+      "id": "bain",
+      "name": "Bain",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 14,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 3
+        },
+        {
+          "code": "IT",
+          "count": 3
+        },
+        {
+          "code": "DS",
+          "count": 2
+        },
+        {
+          "code": "MT",
+          "count": 2
+        },
+        {
+          "code": "BT",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        },
+        {
+          "code": "EEE",
+          "count": 1
+        }
+      ],
+      "branchCount": 8,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 45000,
+        "min": 45000,
+        "avg": 45000,
+        "offerCount": 14
+      }
+    },
+    {
+      "id": "myntra",
+      "name": "Myntra",
+      "category": "FMCG",
+      "dateOfVisit": "2025-09-27",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "hpejunipernetworks",
+      "name": "HPE Juniper Networks",
+      "category": "Core IT",
+      "dateOfVisit": "2025-10-01",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 7,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 3
+        },
+        {
+          "code": "IT",
+          "count": 3
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 7
+      }
+    },
+    {
+      "id": "siemenstechnology",
+      "name": "Siemens Technology",
+      "category": "Core IT",
+      "dateOfVisit": "2025-10-08",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 7,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "DS",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 5,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 25000,
+        "min": 25000,
+        "avg": 25000,
+        "offerCount": 7
+      }
+    },
+    {
+      "id": "landtfinance",
+      "name": "L&T Finance",
+      "category": "FinTech",
+      "dateOfVisit": "2025-10-17",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "EEE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 15000,
+        "min": 15000,
+        "avg": 15000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "konduit",
+      "name": "Konduit",
+      "category": "Core IT",
+      "dateOfVisit": "2025-10-27",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 25000,
+        "min": 25000,
+        "avg": 25000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "leadsquaredcsm",
+      "name": "LeadSquared (CSM)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "AE",
+          "count": 1
+        },
+        {
+          "code": "AU",
+          "count": 1
+        },
+        {
+          "code": "EIE",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 27000,
+        "min": 27000,
+        "avg": 27000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "leadsquaredbaus",
+      "name": "LeadSquared (BA US)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 7,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        },
+        {
+          "code": "ME",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        }
+      ],
+      "branchCount": 6,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 27000,
+        "min": 27000,
+        "avg": 27000,
+        "offerCount": 7
+      }
+    },
+    {
+      "id": "leadsquaredsdr",
+      "name": "LeadSquared (SDR)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "BM",
+          "count": 1
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        },
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 27000,
+        "min": 27000,
+        "avg": 27000,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "leadsquaredsdrus",
+      "name": "LeadSquared (SDR US)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "CH",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 27000,
+        "min": 27000,
+        "avg": 27000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "quantiphi",
+      "name": "Quantiphi",
+      "category": "Analytics",
+      "dateOfVisit": "2025-10-29",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "BM",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        },
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 24000,
+        "min": 24000,
+        "avg": 24000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "oracleliftcloud",
+      "name": "Oracle Lift Cloud",
+      "category": "Core IT",
+      "dateOfVisit": "2025-10-30",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 2
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 60000,
+        "min": 60000,
+        "avg": 60000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "amazonsde",
+      "name": "Amazon SDE",
+      "category": "Core IT",
+      "dateOfVisit": "2025-10-31",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 8,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "DS",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 5,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 110000,
+        "min": 110000,
+        "avg": 110000,
+        "offerCount": 8
+      }
+    },
+    {
+      "id": "suprajit",
+      "name": "Suprajit",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-11-03",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 16,
+      "branches": [
+        {
+          "code": "ME",
+          "count": 7
+        },
+        {
+          "code": "EEE",
+          "count": 3
+        },
+        {
+          "code": "EIE",
+          "count": 3
+        },
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        },
+        {
+          "code": "AU",
+          "count": 1
+        }
+      ],
+      "branchCount": 6,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 20000,
+        "min": 20000,
+        "avg": 20000,
+        "offerCount": 16
+      }
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "category": "Core IT",
+      "dateOfVisit": "2025-11-07",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 105000,
+        "min": 105000,
+        "avg": 105000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "jiocreativelabs",
+      "name": "Jio Creative Labs",
+      "category": "Core IT",
+      "dateOfVisit": "2025-11-11",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 1
+        },
+        {
+          "code": "DS",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        },
+        {
+          "code": "EIE",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "purestoragedtg",
+      "name": "PureStorage (DTG)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 90000,
+        "min": 90000,
+        "avg": 90000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "purestoragedvwm",
+      "name": "PureStorage (DV WM)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 90000,
+        "min": 90000,
+        "avg": 90000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "landt",
+      "name": "L&T",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "CV",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "airbus",
+      "name": "Airbus",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-11-20",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 30000,
+        "min": 30000,
+        "avg": 30000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "amazonmanagerioperations",
+      "name": "Amazon Manager I, Operations",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "AE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "amazonprogrammanageri",
+      "name": "Amazon Program Manager I",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 6,
+      "branches": [
+        {
+          "code": "MT",
+          "count": 4
+        },
+        {
+          "code": "BM",
+          "count": 2
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 6
+      }
+    },
+    {
+      "id": "amazondataengineeri",
+      "name": "Amazon Data Engineer I",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "amazonsupportengineerii",
+      "name": "Amazon Support Engineer II",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 2
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        },
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 50000,
+        "min": 50000,
+        "avg": 50000,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "amazonbusinessintelengineeri",
+      "name": "Amazon Business Intel Engineer I",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "amazonqualityassuranceengineeri",
+      "name": "Amazon Quality Assurance Engineer I",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 70000,
+        "min": 70000,
+        "avg": 70000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "fracktalworks",
+      "name": "Fracktal Works",
+      "category": "Core IT",
+      "dateOfVisit": "2025-11-21",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "MT",
+          "count": 3
+        },
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 10000,
+        "min": 10000,
+        "avg": 10000,
+        "offerCount": 4
+      }
+    },
+    {
+      "id": "theaicatalyst",
+      "name": "The AI Catalyst",
+      "category": "Core IT",
+      "dateOfVisit": "2025-11-25",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 3,
+      "branches": [
+        {
+          "code": "CSE",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 25000,
+        "min": 25000,
+        "avg": 25000,
+        "offerCount": 3
+      }
+    },
+    {
+      "id": "informationtechnologyit",
+      "name": "Information Technology (IT)",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "ECE",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 30000,
+        "min": 30000,
+        "avg": 30000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "caterpillar",
+      "name": "Caterpillar",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-10-17",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "ME",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 20000,
+        "min": 20000,
+        "avg": 20000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "abinbev",
+      "name": "ABInBev",
+      "category": "FMCG",
+      "dateOfVisit": "2025-12-06",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 5,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 2
+        },
+        {
+          "code": "AIML",
+          "count": 2
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 3,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 5
+      }
+    },
+    {
+      "id": "hypervergejrsa",
+      "name": "HyperVerge (Jr SA)",
+      "category": "Core IT",
+      "dateOfVisit": "2025-12-05",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 1,
+      "branches": [
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 1,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 35000,
+        "min": 35000,
+        "avg": 35000,
+        "offerCount": 1
+      }
+    },
+    {
+      "id": "changejartechnologies",
+      "name": "Change Jar Technologies",
+      "category": null,
+      "dateOfVisit": null,
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "DS",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 30000,
+        "min": 30000,
+        "avg": 30000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "landtchennai",
+      "name": "L&T Chennai",
+      "category": "Core Engg",
+      "dateOfVisit": "2025-11-12",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "MT",
+          "count": 3
+        },
+        {
+          "code": "ECE",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      }
+    },
+    {
+      "id": "dataaxle",
+      "name": "Data Axle",
+      "category": "Core IT",
+      "dateOfVisit": "2025-12-10",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 2,
+      "branches": [
+        {
+          "code": "DS",
+          "count": 1
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        }
+      ],
+      "branchCount": 2,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 25000,
+        "min": 25000,
+        "avg": 25000,
+        "offerCount": 2
+      }
+    },
+    {
+      "id": "kotakmahindrabank",
+      "name": "Kotak Mahindra Bank",
+      "category": "Fintech",
+      "dateOfVisit": "2025-12-15",
+      "driveType": "Internship",
+      "offerTypes": [
+        "I"
+      ],
+      "studentCount": 4,
+      "branches": [
+        {
+          "code": "CCE",
+          "count": 1
+        },
+        {
+          "code": "AIML",
+          "count": 1
+        },
+        {
+          "code": "CPS",
+          "count": 1
+        },
+        {
+          "code": "IT",
+          "count": 1
+        }
+      ],
+      "branchCount": 4,
+      "ctc": {
+        "max": null,
+        "min": null,
+        "avg": null,
+        "offerCount": 0
+      },
+      "stipend": {
+        "max": 40000,
+        "min": 40000,
+        "avg": 40000,
+        "offerCount": 4
+      }
+    }
+  ],
+  "branches": [
+    {
+      "code": "CSE",
+      "label": "Computer Science Engineering",
+      "studentsPlaced": 169,
+      "companiesHiring": 74,
+      "avgPackage": 1320433,
+      "medianPackage": 1200000,
+      "maxPackage": 5522250.0,
+      "minPackage": 360000.0,
+      "packageOfferCount": 118
+    },
+    {
+      "code": "IT",
+      "label": "Information Technology",
+      "studentsPlaced": 161,
+      "companiesHiring": 77,
+      "avgPackage": 1275280,
+      "medianPackage": 1088038,
+      "maxPackage": 5522250.0,
+      "minPackage": 360000.0,
+      "packageOfferCount": 126
+    },
+    {
+      "code": "CCE",
+      "label": "Computer & Communication Engineering",
+      "studentsPlaced": 142,
+      "companiesHiring": 70,
+      "avgPackage": 1312156,
+      "medianPackage": 1081724.0,
+      "maxPackage": 5522250.0,
+      "minPackage": 360000.0,
+      "packageOfferCount": 107
+    },
+    {
+      "code": "AIML",
+      "label": "CSE (AI & Machine Learning)",
+      "studentsPlaced": 132,
+      "companiesHiring": 67,
+      "avgPackage": 1161141,
+      "medianPackage": 876469,
+      "maxPackage": 4458750.0,
+      "minPackage": 360000.0,
+      "packageOfferCount": 90
+    },
+    {
+      "code": "DS",
+      "label": "Data Science",
+      "studentsPlaced": 115,
+      "companiesHiring": 51,
+      "avgPackage": 1067027,
+      "medianPackage": 850000.0,
+      "maxPackage": 2602080.0,
+      "minPackage": 360000.0,
+      "packageOfferCount": 71
+    },
+    {
+      "code": "ECE",
+      "label": "Electronics & Communication Engineering",
+      "studentsPlaced": 98,
+      "companiesHiring": 44,
+      "avgPackage": 1124510,
+      "medianPackage": 760000.0,
+      "maxPackage": 3174905.0,
+      "minPackage": 360000.0,
+      "packageOfferCount": 59
+    },
+    {
+      "code": "MT",
+      "label": "Mechatronics",
+      "studentsPlaced": 63,
+      "companiesHiring": 24,
+      "avgPackage": 855994,
+      "medianPackage": 956000.0,
+      "maxPackage": 2137000.0,
+      "minPackage": 360000.0,
+      "packageOfferCount": 41
+    },
+    {
+      "code": "ME",
+      "label": "Mechanical Engineering",
+      "studentsPlaced": 56,
+      "companiesHiring": 35,
+      "avgPackage": 1017194,
+      "medianPackage": 956000,
+      "maxPackage": 1850000.0,
+      "minPackage": 405233.0,
+      "packageOfferCount": 38
+    },
+    {
+      "code": "EEE",
+      "label": "Electrical & Electronics Engineering",
+      "studentsPlaced": 45,
+      "companiesHiring": 29,
+      "avgPackage": 885111,
+      "medianPackage": 800000,
+      "maxPackage": 2478000.0,
+      "minPackage": 360000.0,
+      "packageOfferCount": 30
+    },
+    {
+      "code": "EIE",
+      "label": "Electronics & Instrumentation Engineering",
+      "studentsPlaced": 38,
+      "companiesHiring": 23,
+      "avgPackage": 872095,
+      "medianPackage": 760000.0,
+      "maxPackage": 1450000.0,
+      "minPackage": 360000.0,
+      "packageOfferCount": 29
+    },
+    {
+      "code": "CPS",
+      "label": "Cyber Physical Systems",
+      "studentsPlaced": 36,
+      "companiesHiring": 25,
+      "avgPackage": 863402,
+      "medianPackage": 757500,
+      "maxPackage": 1875000.0,
+      "minPackage": 360000.0,
+      "packageOfferCount": 26
+    },
+    {
+      "code": "AE",
+      "label": "Aeronautical Engineering",
+      "studentsPlaced": 17,
+      "companiesHiring": 10,
+      "avgPackage": 766648,
+      "medianPackage": 500000,
+      "maxPackage": 1450000.0,
+      "minPackage": 405233.0,
+      "packageOfferCount": 14
+    },
+    {
+      "code": "BM",
+      "label": "Biomedical Engineering",
+      "studentsPlaced": 9,
+      "companiesHiring": 7,
+      "avgPackage": 605000,
+      "medianPackage": 605000,
+      "maxPackage": 850000.0,
+      "minPackage": 360000.0,
+      "packageOfferCount": 2
+    },
+    {
+      "code": "CV",
+      "label": "Civil Engineering",
+      "studentsPlaced": 9,
+      "companiesHiring": 4,
+      "avgPackage": 610500,
+      "medianPackage": 600000,
+      "maxPackage": 703000.0,
+      "minPackage": 525000.0,
+      "packageOfferCount": 8
+    },
+    {
+      "code": "CH",
+      "label": "Chemical Engineering",
+      "studentsPlaced": 7,
+      "companiesHiring": 6,
+      "avgPackage": 836667,
+      "medianPackage": 750000.0,
+      "maxPackage": 1400000.0,
+      "minPackage": 360000.0,
+      "packageOfferCount": 3
+    },
+    {
+      "code": "BT",
+      "label": "Biotechnology",
+      "studentsPlaced": 5,
+      "companiesHiring": 5,
+      "avgPackage": 635078,
+      "medianPackage": 600000.0,
+      "maxPackage": 900000.0,
+      "minPackage": 405233.0,
+      "packageOfferCount": 3
+    },
+    {
+      "code": "AU",
+      "label": "Automobile Engineering",
+      "studentsPlaced": 6,
+      "companiesHiring": 4,
+      "avgPackage": 962500,
+      "medianPackage": 1050000,
+      "maxPackage": 1050000.0,
+      "minPackage": 700000.0,
+      "packageOfferCount": 4
+    },
+    {
+      "code": "IE",
+      "label": "Industrial Engineering & Management",
+      "studentsPlaced": 4,
+      "companiesHiring": 4,
+      "avgPackage": 1165667,
+      "medianPackage": 760000.0,
+      "maxPackage": 2137000.0,
+      "minPackage": 600000.0,
+      "packageOfferCount": 3
+    }
+  ],
+  "timeline": [
+    {
+      "month": "2025-01",
+      "companies": 2,
+      "students": 19,
+      "maxPackage": 0
+    },
+    {
+      "month": "2025-02",
+      "companies": 1,
+      "students": 3,
+      "maxPackage": 0
+    },
+    {
+      "month": "2025-04",
+      "companies": 7,
+      "students": 39,
+      "maxPackage": 1200000
+    },
+    {
+      "month": "2025-05",
+      "companies": 3,
+      "students": 12,
+      "maxPackage": 0
+    },
+    {
+      "month": "2025-06",
+      "companies": 4,
+      "students": 17,
+      "maxPackage": 2478000
+    },
+    {
+      "month": "2025-07",
+      "companies": 12,
+      "students": 39,
+      "maxPackage": 4100399
+    },
+    {
+      "month": "2025-08",
+      "companies": 27,
+      "students": 148,
+      "maxPackage": 5522250
+    },
+    {
+      "month": "2025-09",
+      "companies": 28,
+      "students": 182,
+      "maxPackage": 4458750
+    },
+    {
+      "month": "2025-10",
+      "companies": 24,
+      "students": 91,
+      "maxPackage": 2364000
+    },
+    {
+      "month": "2025-11",
+      "companies": 27,
+      "students": 165,
+      "maxPackage": 3174905
+    },
+    {
+      "month": "2025-12",
+      "companies": 12,
+      "students": 124,
+      "maxPackage": 1200000
+    }
+  ],
+  "salaryBands": [
+    {
+      "label": "< \u20b95 LPA",
+      "count": 139
+    },
+    {
+      "label": "\u20b95\u20138 LPA",
+      "count": 202
+    },
+    {
+      "label": "\u20b98\u201312 LPA",
+      "count": 134
+    },
+    {
+      "label": "\u20b912\u201320 LPA",
+      "count": 204
+    },
+    {
+      "label": "\u20b920\u201330 LPA",
+      "count": 76
+    },
+    {
+      "label": "\u20b930+ LPA",
+      "count": 17
+    }
+  ],
+  "dataQuality": [
+    "340 of 1112 offer rows have no CTC (expected: rows are Internship-only offers, Offer Type = 'I').",
+    "507 of 1112 offer rows have no Stipend (expected: rows are Placement-only offers, Offer Type = 'P').",
+    "1 row(s) missing CGPA \u2014 left blank, excluded from any CGPA stat.",
+    "47 companies in Students List could not be matched to a Category/Date row in Full Stats or Internship sheets (shown with Category/Date = \"Unknown\"): ['Amazon (DE)', 'Amazon Business Intel Engineer I', 'Amazon Data Engineer I', 'Amazon Manager I, Operations', 'Amazon Program Manager I', 'Amazon Quality Assurance Engineer I', 'Amazon Support Engineer II', 'Arcesium', 'Bain', 'CEM India Project', 'Change Jar Technologies', 'Cisco (BA)', 'Cisco (SW)', 'Deloitte (Pro 1)', 'Deloitte (Pro 2)'] ..."
+  ],
+  "mlPredictor": {
+    "trained": true,
+    "algorithm": "Ridge regression (alpha=8.0) on log1p(CTC), scikit-learn",
+    "targetTransform": "log1p",
+    "trainedOnRows": 575,
+    "excludedUnknownCategoryRows": 197,
+    "features": [
+      "branch_CSE",
+      "branch_IT",
+      "branch_CCE",
+      "branch_AIML",
+      "branch_DS",
+      "branch_ECE",
+      "branch_MT",
+      "branch_ME",
+      "branch_EEE",
+      "branch_EIE",
+      "branch_CPS",
+      "branch_AE",
+      "branch_BM",
+      "branch_CV",
+      "branch_CH",
+      "branch_BT",
+      "branch_AU",
+      "branch_IE",
+      "cat_Analytics",
+      "cat_Consulting",
+      "cat_Core Engg",
+      "cat_Core IT",
+      "cat_FMCG",
+      "cat_Fintech",
+      "cat_Healthcare",
+      "cat_ITES",
+      "driveSize_z",
+      "branchDiversity_z"
+    ],
+    "branchesUsed": [
+      "CSE",
+      "IT",
+      "CCE",
+      "AIML",
+      "DS",
+      "ECE",
+      "MT",
+      "ME",
+      "EEE",
+      "EIE",
+      "CPS",
+      "AE",
+      "BM",
+      "CV",
+      "CH",
+      "BT",
+      "AU",
+      "IE"
+    ],
+    "categoriesUsed": [
+      "Analytics",
+      "Consulting",
+      "Core Engg",
+      "Core IT",
+      "FMCG",
+      "Fintech",
+      "Healthcare",
+      "ITES"
+    ],
+    "driveSizeStandardization": {
+      "mean": 16.32,
+      "std": 16.475
+    },
+    "branchDiversityStandardization": {
+      "mean": 5.268,
+      "std": 3.249
+    },
+    "coefficients": {
+      "branch_CSE": 0.1389,
+      "branch_IT": 0.0417,
+      "branch_CCE": 0.0768,
+      "branch_AIML": 0.0632,
+      "branch_DS": 0.0227,
+      "branch_ECE": 0.17,
+      "branch_MT": -0.0197,
+      "branch_ME": -0.0563,
+      "branch_EEE": -0.0779,
+      "branch_EIE": 0.008,
+      "branch_CPS": -0.0221,
+      "branch_AE": 0.0063,
+      "branch_BM": -0.0254,
+      "branch_CV": -0.2467,
+      "branch_CH": -0.0205,
+      "branch_BT": -0.046,
+      "branch_AU": -0.0489,
+      "branch_IE": 0.0358,
+      "cat_Analytics": -0.1817,
+      "cat_Consulting": 0.0773,
+      "cat_Core Engg": -0.0862,
+      "cat_Core IT": 0.2074,
+      "cat_FMCG": 0.1297,
+      "cat_Fintech": 0.3208,
+      "cat_Healthcare": 0.3058,
+      "cat_ITES": -0.7731,
+      "driveSize_z": 0.0924,
+      "branchDiversity_z": -0.1252
+    },
+    "intercept": 13.916,
+    "trainR2": 0.591,
+    "testR2": 0.746,
+    "testMAE": 240023,
+    "crossValidation": {
+      "folds": 5,
+      "strategy": "GroupKFold",
+      "groupedBy": "company",
+      "uniqueGroups": 99,
+      "ridgeR2Mean": -0.064,
+      "ridgeR2Std": 0.682
+    },
+    "holdout": {
+      "strategy": "GroupShuffleSplit",
+      "groupedBy": "company",
+      "testFraction": 0.2,
+      "trainGroups": 79,
+      "testGroups": 20
+    },
+    "comparisonModels": [
+      {
+        "name": "Random Forest (200 trees, depth 6)",
+        "cvR2Mean": -1.222,
+        "cvR2Std": 2.274,
+        "shipped": false
+      },
+      {
+        "name": "Gradient Boosting (150 trees, depth 3)",
+        "cvR2Mean": -1.04,
+        "cvR2Std": 1.87,
+        "shipped": false
+      }
+    ],
+    "caveat": "Trained on 575 historical offers from a single placement season (197 rows with an unmatched category were excluded from training). Company-grouped 5-fold CV R\u00b2 = -0.06 \u00b1 0.68 \u2014 treat predictions as a rough, directional estimate (a few lakhs of error is normal), not a guarantee."
+  },
+  "anomalies": [
+    {
+      "company": "Microsoft PPO",
+      "companyId": "microsoftppo",
+      "branch": "CSE",
+      "value": 5522250,
+      "peerAverage": 1520290,
+      "zScore": 3.91,
+      "direction": "high"
+    },
+    {
+      "company": "Fischer Jordan PPO",
+      "companyId": "fischerjordanppo",
+      "branch": "EEE",
+      "value": 2478000,
+      "peerAverage": 1085115,
+      "zScore": 2.59,
+      "direction": "high"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# Node dependencies and build output
+node_modules/
+dist/
+
+# Environment variables and local configuration
+.env
+.env.*
+!.env.example
+*.local
+
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Private Excel source data
+*.xlsx
+*.xls
+
+# Operating-system files
+.DS_Store
+Thumbs.db
